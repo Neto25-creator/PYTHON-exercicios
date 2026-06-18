@@ -22,7 +22,4 @@ def gerar_relatorio(entrada, saida):
 
     print("Relatório salvo em:", saida)
 
-
-
 gerar_relatorio("intermediario/clientes/clientes.txt", "intermediario/clientes/clientesFiltrados.json")
-
