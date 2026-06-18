@@ -1,3 +1,5 @@
+# Crie uma classe Aluno com atributos nome, notas (lista) e métodos para adicionar nota, calcular média e informar situação (aprovado/reprovado).
+
 class Aluno:
     def __init__(self, nome):
         self.nome = nome

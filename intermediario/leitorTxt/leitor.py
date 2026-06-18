@@ -1,3 +1,5 @@
+
+# Escreva um programa que leia um arquivo .txt, conte palavras, linhas e caracteres, e salve um relatório em outro arquivo.
 import os
 
 os.system("cls")
