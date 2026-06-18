@@ -1,0 +1,6 @@
+Python é uma linguagem de programação poderosa e versátil.
+Ela pode ser usada para análise de dados, inteligência artificial,
+desenvolvimento web e automação de tarefas.
+Aprender Python abre portas para muitas oportunidades.
+Com prática e dedicação, é possível criar projetos incríveis
+e resolver problemas do dia a dia de forma eficiente.

@@ -1,0 +1,4 @@
+Relatório do arquivo: intermediario/leitorTxt/texto.txt
+Total de linhas: 6
+Total de palavras: 51
+Total de caracteres: 339
