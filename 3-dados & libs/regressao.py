@@ -2,8 +2,8 @@ import numpy as np                # NumPy: cálculos numéricos
 import matplotlib.pyplot as plt   # Matplotlib: gráficos
 
 # Dados fictícios: horas de estudo (x) e notas (y)
-x = np.array([1, 2, 3, 4, 5, 6])   # variável independente (horas de estudo)
-y = np.array([2, 4, 5, 4, 5, 7])   # variável dependente (nota do aluno)
+x = np.array([1, 2, 3, 4, 5, 6])  # variável independente (horas de estudo)
+y = np.array([2, 4, 5, 4, 5, 7])  # variável dependente (nota do aluno)
 
 # Regressão linear do zero 
 x_mean = np.mean(x)   # média de x

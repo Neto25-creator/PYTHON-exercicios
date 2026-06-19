@@ -6,7 +6,6 @@ mat2 = np.array([[5, 6], [7, 8]])
 soma = mat1 + mat2
 produto = np.dot(mat1, mat2)  # multiplicação matricial
 
-
 # matriz aleatória 5x5
 matriz = np.random.randint(1, 100, (5, 5))
 media = np.mean(matriz)
