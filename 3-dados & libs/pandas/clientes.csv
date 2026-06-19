@@ -1,0 +1,21 @@
+nome,idade,cidade,profissao,renda,status
+Ana,25,Porto Alegre,Designer,3500,Ativo
+Carlos,35,São Paulo,Engenheiro,7200,Ativo
+Mariana,42,Curitiba,Médica,12000,Ativo
+João,29,Rio de Janeiro,Professor,4000,Inativo
+Fernanda,55,Belo Horizonte,Advogada,9500,Ativo
+Pedro,31,Florianópolis,Analista,5200,Ativo
+Luciana,27,Recife,Arquiteta,4800,Ativo
+Roberto,60,Fortaleza,Aposentado,3000,Inativo
+Patrícia,38,Salvador,Gerente,8700,Ativo
+André,45,Campinas,Empresário,15000,Ativo
+Juliana,33,Natal,Enfermeira,5600,Ativo
+Marcelo,28,Porto Alegre,Programador,6200,Ativo
+Beatriz,50,São Paulo,Consultora,11000,Ativo
+Ricardo,40,Curitiba,Professor,4300,Inativo
+Sofia,22,Rio de Janeiro,Estudante,1200,Ativo
+Eduardo,36,Belo Horizonte,Engenheiro,8000,Ativo
+Camila,47,Florianópolis,Psicóloga,7000,Ativo
+Felipe,30,Recife,Administrador,5400,Ativo
+Isabela,41,Fortaleza,Gerente,9300,Ativo
+Gustavo,26,Salvador,Estagiário,1800,Inativo
